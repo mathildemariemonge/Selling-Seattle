@@ -37,6 +37,7 @@ Evaluate the model's performance on the testing set using appropriate metrics
 Interpret the model's coefficients and assess its predictive power
 
 Day 5: Insights & Learnings
+
 Summarize the key findings and insights from the project
 Reflect on the strengths and limitations of the model and the data
 Discuss potential directions for future work or extensions of the project
