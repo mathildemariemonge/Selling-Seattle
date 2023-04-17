@@ -1,5 +1,7 @@
 # Selling Seattle
 
+![alt text](https://github.com/mathildemariemonge/Selling-Seattle/blob/main/Seattle.png)
+
 
 Welcome to Ilkay and Mathilde's project on building a linear regression model for the Seattle housing market! In this project, we will be exploring the factors that affect housing prices in Seattle and using that knowledge to create a predictive model that can estimate the prices of homes in the area. By analyzing data on various features such as location, size, age, and amenities of properties sold in Seattle, we will build a model that can help home buyers and sellers make more informed decisions. Through this project, we hope to gain insights into the Seattle housing market and provide valuable information to those interested in buying or selling property in the area.
 
